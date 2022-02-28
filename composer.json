@@ -1,0 +1,13 @@
+{
+    "name": "raimondas/skelbimai",
+    "description": "Dar vienas skelbimu portalas",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "": "app/code"
+        }
+    },
+    "require": {
+        "psr/log": "^1.1"
+    }
+}
