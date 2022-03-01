@@ -2,5 +2,5 @@
 /.idea
 /oop/adminer.php
 /oop/vender
-/var
+/oop/var/log/
 /oop/config.php
